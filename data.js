@@ -1,1 +1,1 @@
-window.DB_DATA={};
+window.DB_DATA={"users":[],"groups":[],"groupMembers":{},"memberTitles":{},"messages":[],"friends":{},"friendApplies":{},"tasks":{},"settings":{},"feedbacks":[],"bans":{},"logs":{}};
