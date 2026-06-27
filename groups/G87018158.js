@@ -1,0 +1,1 @@
+window.GROUP_DATA={"group":{"groupId":"G87018158","groupName":"saneitr2的测试群","avatarUrl":"","creator":"saneitr2","createdAt":1782553870181,"announcement":"","owner":"saneitr2"},"members":["saneitr2"],"titles":{"saneitr2":"群主"}};
