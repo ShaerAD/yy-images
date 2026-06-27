@@ -1,0 +1,1 @@
+window.DATA_INFO={"friends":[],"applies":[],"tasks":{},"settings":{"darkMode":false,"soundOn":true},"logs":[],"feedbacks":[]};
