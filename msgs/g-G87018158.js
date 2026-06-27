@@ -1,0 +1,1 @@
+window.MSG_DATA=[{"from":"saneitr2","content":"你好","time":"17:51","msgId":"mqw6kv3wg4ob9v","timestamp":1782553919612,"groupId":"G87018158"}];
